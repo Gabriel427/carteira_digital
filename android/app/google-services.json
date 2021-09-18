@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "121245942172",
+    "project_id": "carteira-digital-26816",
+    "storage_bucket": "carteira-digital-26816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121245942172:android:f4bdeb8973ce95ad2d0859",
+        "android_client_info": {
+          "package_name": "com.example.carteira_digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121245942172-jko08tr16pooea23ia38oo2hg8qfl82l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYHkT-zASdVFGeO_xR5O0DbZkTOISKk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121245942172-jko08tr16pooea23ia38oo2hg8qfl82l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121245942172-c8f4q0njj558vrurdflupnvk6ifrp5gd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carteiraDigital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
